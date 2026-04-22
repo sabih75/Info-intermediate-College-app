@@ -420,10 +420,10 @@ export default function Home() {
                 </div>
               </div>
               <div className="mt-12 flex gap-3">
-                <a href="tel:+923001234567" className="bg-[#800000] text-white text-xs font-bold px-4 py-2.5 tracking-wide hover:bg-[#6b0000] transition-colors">
+                <a href="tel:+923253629755" className="bg-[#800000] text-white text-xs font-bold px-4 py-2.5 tracking-wide hover:bg-[#6b0000] transition-colors">
                   📞 Call Us
                 </a>
-                <a href="https://wa.me/923001234567" target="_blank" rel="noreferrer"
+                <a href="https://wa.me/923253629755" target="_blank" rel="noreferrer"
                   className="bg-green-600 text-white text-xs font-bold px-4 py-2.5 tracking-wide hover:bg-green-700 transition-colors">
                   💬 WhatsApp
                 </a>
